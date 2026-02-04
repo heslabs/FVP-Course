@@ -1,4 +1,4 @@
-# Complete OpenBMC ARM FVP Build and Deployment Guide
+# Complete AEMv8 FVP Build and Deployment Guide
 
 ## Overview
 This comprehensive guide combines step-by-step build instructions with real-world deployment experience for OpenBMC Linux on ARM Fixed Virtual Platform (FVP). It includes detailed setup procedures, troubleshooting solutions, and lessons learned from successful implementations.
