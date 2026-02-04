@@ -61,6 +61,8 @@ Early-career engineers transitioning to Arm-based computing platforms
 ## Reference
 
 #### Arm Documentation 
+* Arm Intrinsics
+  * https://developer.arm.com/architectures/instruction-sets/intrinsics/
 * Arm Architecture Reference Manual for A-profile Architecture
   * https://developer.arm.com/documentation/ddi0487/latest/ 
 * Arm DynamIQ™ Shared Unit Technical Reference Manual
