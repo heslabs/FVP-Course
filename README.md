@@ -58,7 +58,7 @@ Early-career engineers transitioning to Arm-based computing platforms
 ---
 ## Reference
 
-**Arm Documentation**
+#### Arm Documentation 
 * Arm Architecture Reference Manual for A-profile Architecture
   * https://developer.arm.com/documentation/ddi0487/latest/ 
 * Arm DynamIQ™ Shared Unit Technical Reference Manual
@@ -76,5 +76,17 @@ Early-career engineers transitioning to Arm-based computing platforms
 * Arm Enterprise ACS (Architecture Compliance Suite)
   * https://github.com/ARM-software/arm-enterprise-acs 
 
+#### Arm Learning Path
+
+* Run a Computer Vision Model on a Himax Microcontroller
+  * https://learn.arm.com/learning-paths/embedded-and-microcontrollers/yolo-on-himax/ 
+* Navigate Machine Learning development with Ethos-U processors
+  * https://learn.arm.com/learning-paths/embedded-and-microcontrollers/nav-mlek/ 
+* Visualize Ethos-U NPU performance with ExecuTorch on Arm FVPs
+  * https://learn.arm.com/learning-paths/embedded-and-microcontrollers/visualizing-ethos-u-performance/ 
+* Debug Trusted Firmware-A and the Linux kernel on Arm FVP  
+  * https://learn.arm.com/learning-paths/embedded-and-microcontrollers/linux-on-fvp/ 
+* Simulate OpenBMC and UEFI pre-silicon on Neoverse RD-V3
+  * https://learn.arm.com/learning-paths/servers-and-cloud-computing/openbmc-rdv3
 
 
