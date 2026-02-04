@@ -12,7 +12,7 @@ This comprehensive guide combines step-by-step build instructions with real-worl
 - **Architecture**: ARM64/AArch64
 - **Build System**: Yocto/OpenEmbedded (Kirkstone branch)
 - **FVP Version**: FVP_Base_RevC-2xAEMvA 11.29.27
-- **Installation Directory**: /home/nicetech/aemv8/
+- **Installation Directory**: /home/fvp/aemv8/
 
 ## Requirements
 1. Cannot use code from gitlab.arm.com
