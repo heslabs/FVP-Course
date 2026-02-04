@@ -41,11 +41,13 @@ Early-career engineers transitioning to Arm-based computing platforms
   * AEMv8 FVP
 * Module 3: Corstone-100 
   * Corstone-101 FVP
+  * STMciro Cortex-M4 MCU
 * Module 4: Corstone-300 
-  * Corstone-300 FVP
-  * Corstone-320 FVP
+  * Corstone-300/320 FVP
+  * Himax Grove Vision V2 MCU
 * Module 5: Corstone-1000
   * Corstone-1000 FVP
+  * Raspberry Pi 5
 * Module 6: Neoverse CSS FVP
   * Running ACS on Neoverse-N2 FVP
   * Running UEFI and BMC on Neoverse-V3 FVP
