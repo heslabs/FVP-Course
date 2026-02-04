@@ -4,9 +4,9 @@
 This comprehensive guide combines step-by-step build instructions with real-world deployment experience for OpenBMC Linux on ARM Fixed Virtual Platform (FVP). It includes detailed setup procedures, troubleshooting solutions, and lessons learned from successful implementations.
 
 ## Build Environment
-- **Host System**: Remote build server (122.116.228.96)
-- **User**: nicetech
-- **Password**: rpi5demo
+- **Host System**: Remote build server  
+- **User**:  
+- **Password**:  
 - **OS**: Ubuntu 22.04 (x86_64)
 - **Target Platform**: ARM FVP (Fixed Virtual Platform)
 - **Architecture**: ARM64/AArch64
